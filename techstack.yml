@@ -2,14 +2,14 @@ repo_name: donaldww/swiftui-notes
 report_id: 3870418e1c14f7a1238f684d1c5eceba
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:18:29+00:00'
+timestamp: '2024-02-29T18:10:40+00:00'
 requested_by: adamhaafiz
 provider: github
 branch: master
 detected_tools_count: 4
 tools:
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
